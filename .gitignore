@@ -1,0 +1,39 @@
+# IntelliJ IDEA / Java
+.idea/
+*.iml
+out/
+target/
+bin/
+*.class
+
+# Eclipse / NetBeans
+.classpath
+.project
+.settings/
+.factorypath
+.apt_generated/
+.springBeans
+.sts4-cache/
+nbproject/private/
+nbbuild/
+dist/
+nbdist/
+.nb-gradle/
+
+# VS Code
+.vscode/
+
+# Sistema operacional e arquivos temporarios
+.DS_Store
+Thumbs.db
+*.log
+*.tmp
+
+# Dependencias e saidas de ferramentas web
+node_modules/
+coverage/
+build/
+
+# Copia exportada pelo navegador; nao e usada pelo index.html
+Numero-da-Sorte/img/JS Game.html
+Numero-da-Sorte/img/JS Game_files/

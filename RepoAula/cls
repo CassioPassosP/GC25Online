@@ -1,0 +1,66 @@
+[33mcommit 2c4be5db1a458eb700d9b9da93dfcfc717e2e84f[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32msquashing[m[33m)[m
+Author: Cassio Passos <passoscassio29@gmail.com>
+Date:   Sun May 4 15:15:19 2025 -0300
+
+    Terceiro commit de squash
+
+[33mcommit db8ef70d24733cea46db2654c514ef3fc32ba705[m
+Author: Cassio Passos <passoscassio29@gmail.com>
+Date:   Sun May 4 15:14:16 2025 -0300
+
+    Segundo commit de squash
+
+[33mcommit a2307cc1de519122144c4ab655e38706aad5a373[m
+Author: Cassio Passos <passoscassio29@gmail.com>
+Date:   Sun May 4 15:12:53 2025 -0300
+
+    Primeiro commit de squash
+
+[33mcommit 5828a50e76312488fb0a6c5952d3cc7ed685d16c[m
+Author: Cassio Passos <passoscassio29@gmail.com>
+Date:   Sun May 4 13:45:59 2025 -0300
+
+    Arquivo teste adionado
+
+[33mcommit d8e5d3d865fb515e3870b082cf4646567ea71c93[m[33m ([m[1;31morigin/feature1[m[33m)[m
+Author: Cassio Passos <passoscassio29@gmail.com>
+Date:   Sun May 4 12:37:03 2025 -0300
+
+    teste f2
+
+[33mcommit 6119ee05b5a64ad76845fec70df0563b22760e60[m
+Merge: 04a3b83 8f5255f
+Author: Cassio Passos <passoscassio29@gmail.com>
+Date:   Sun May 4 12:33:54 2025 -0300
+
+    mudancas repositorio remoto
+
+[33mcommit 8f5255fab8f86ef2a9b08f90cdb5398f6e15cee8[m
+Author: Cassio Passos <162655213+CassioPassosP@users.noreply.github.com>
+Date:   Sat May 3 19:18:20 2025 -0300
+
+    Arquivo SegundoArquivoRemoto.txt criado
+
+[33mcommit 9bca3b5cf3ffb9231c162e39709a4ca3238c716e[m
+Author: Cassio Passos <162655213+CassioPassosP@users.noreply.github.com>
+Date:   Sat May 3 19:14:10 2025 -0300
+
+     arquivo arquivoRemoto criado
+
+[33mcommit 04a3b835e77073fe1c4d7dd068e1340242d73328[m
+Author: Cassio Passos <passoscassio29@gmail.com>
+Date:   Sat May 3 19:10:45 2025 -0300
+
+    Segundo commit
+
+[33mcommit 5518e304fd06aaa0771be87be75639075879b85f[m
+Author: Cassio Passos <passoscassio29@gmail.com>
+Date:   Sat May 3 19:01:25 2025 -0300
+
+    Segundo arquivo criado na branch feature1
+
+[33mcommit 92229f1a8b1e675d13410b7a1cd35edaf4fe2c93[m
+Author: Cassio Passos <passoscassio29@gmail.com>
+Date:   Sat May 3 18:50:15 2025 -0300
+
+    Primeiro commit
